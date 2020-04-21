@@ -6,6 +6,8 @@ h1 {
     background-size: cover;
     text-align: center;
     color: #edc612;
+    font-size: 70px;
+    font-family: fantasy;
 }
 p {
     width: 1000px;
@@ -14,7 +16,9 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    color: #313131
+    color: #313131;
+    font-size: 50px;
+    font-family: fantasy;
 }
 body {
     background-color:#313131;
@@ -54,9 +58,20 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    color: #313131
+    color: #313131;
+    font-family: fantasy;
+    font-size: 50px;
 }
-
+p2 {
+    width: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #313131;
+    font-family: fantasy;
+    font-size: 30px;
+}
 ul {
     list-style-type: none;
     margin: 0;
