@@ -5,6 +5,7 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
+    color: #edc612;
 }
 p {
     width: 1000px;
@@ -20,7 +21,7 @@ body {
     background-image:url(Dreamville.jpg);
     background-repeat: no-repeat;
     height: 900px;
-    width: 900px;
+    width: 1S00px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
