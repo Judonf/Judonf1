@@ -8,11 +8,12 @@ h1 {
 }
 p {
     width: 1000px;
-    background-color:#313131;
+    background-color:#edc612;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
+    color: #313131
 }
 body {
     background-color:#313131;
@@ -47,11 +48,12 @@ li {
 }
 h2 {
     width: 1000px;
-    background-color:#313131;
+    background-color:#edc612;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
+    color: #313131
 }
 
 ul {
