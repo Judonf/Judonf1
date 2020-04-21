@@ -45,6 +45,14 @@ li {
     position: relative;
     text-align: center;
 }
+h2 {
+    width: 1000px;
+    background-color:#313131;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
 
 ul {
     list-style-type: none;
