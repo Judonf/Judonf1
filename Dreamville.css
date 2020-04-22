@@ -8,6 +8,7 @@ h1 {
     color: #edc612;
     font-size: 70px;
     font-family: fantasy;
+    border: 8px double #edc612;
 }
 p {
     width: 1000px;
@@ -21,7 +22,6 @@ p {
     font-family: fantasy;
 }
 body {
-    background-color:#313131;
     background-image:url(Dreamville.jpg);
     background-repeat: no-repeat;
     height: 1000px;
@@ -49,6 +49,7 @@ li {
     background-size: cover;
     position: relative;
     text-align: center;
+    border: 8px dotted #edc612;
 }
 h2 {
     width: 1000px;
@@ -62,7 +63,9 @@ h2 {
     font-size: 50px;
 }
 p2 {
+    height:125px;
     width: 1000px;
+    background-color:#313131;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -70,9 +73,13 @@ p2 {
     color: white;
     font-family: fantasy;
     font-size: 30px;
-    margin: 10px 5px 15px 20px;
-    border: px solid #313131;
-    padding: 15px;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0em;
+    margin-right: 1em;
+    border: 1px solid #313131;
+    padding: 1px;
 }
 ul {
     list-style-type: none;
@@ -83,6 +90,7 @@ ul {
     padding: 20px;
     background-color: #313131;
     text-align: center;
+    border: 8px double #edc612;
 }
 li a {
     display: block;
@@ -106,7 +114,7 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 2px solid #edc612;
   text-align: left;
   padding: 8px;
 }
