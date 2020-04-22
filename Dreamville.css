@@ -9,6 +9,7 @@ h1 {
     font-size: 70px;
     font-family: fantasy;
     border: 8px double #edc612;
+    align-content: center;
 }
 p {
     width: 1000px;
@@ -20,6 +21,7 @@ p {
     color: #313131;
     font-size: 50px;
     font-family: fantasy;
+    align-content: center;
 }
 body {
     background-image:url(Dreamville.jpg);
@@ -61,6 +63,7 @@ h2 {
     color: #313131;
     font-family: fantasy;
     font-size: 50px;
+    align-content: center;
 }
 p2 {
     height:125px;
@@ -80,6 +83,7 @@ p2 {
     margin-right: 1em;
     border: 1px solid #313131;
     padding: 1px;
+    align-content: center;
 }
 ul {
     list-style-type: none;
