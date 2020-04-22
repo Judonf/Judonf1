@@ -68,9 +68,12 @@ p2 {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    color: #313131;
+    color: white;
     font-family: fantasy;
     font-size: 30px;
+    margin: 10px 5px 15px 20px;
+    border: 10px solid #313131;
+    padding: 15px;
 }
 ul {
     list-style-type: none;
