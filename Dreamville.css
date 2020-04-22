@@ -27,7 +27,6 @@ body {
     height: 1000px;
     width: 1000px;
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
 }`
@@ -72,7 +71,7 @@ p2 {
     font-family: fantasy;
     font-size: 30px;
     margin: 10px 5px 15px 20px;
-    border: 10px solid #313131;
+    border: px solid #313131;
     padding: 15px;
 }
 ul {
